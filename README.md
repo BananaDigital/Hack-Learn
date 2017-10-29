@@ -1,3 +1,3 @@
-# Hack-Learn Mundo dos Bots
+# Hack&Learn
 
-Hack&Learn que tem como objetivo ensinar a construir um Chatbot utilizando do API.AI e específicamente faz uso do Facebook Messenger como base para plataforma de comunicação.
+O Hack&Learn foi um projeto da banana digital com o objetivo de misturar os aspectos de workshops de de hackathons, com o objetivo de apresentar uma experiência focada em Challenge Based Learning.
