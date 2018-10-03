@@ -1,3 +1,5 @@
-# Hack&Learn
+# Mundo dos Bots
 
-O Hack&Learn foi um projeto da banana digital com o objetivo de misturar os aspectos de workshops de de hackathons, proporcionando uma experiência focada em Project Based Learning.
+Tema ensinando sobre a criação de chatbots utilizando a plataforma do API.AI.
+
+O projeto desenvolvido envolvia a criação de um chatbot para ser utilizado na política.
